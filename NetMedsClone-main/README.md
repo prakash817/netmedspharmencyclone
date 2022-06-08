@@ -1,2 +1,0 @@
-# NetMedsClone
-NetMeds Clone
